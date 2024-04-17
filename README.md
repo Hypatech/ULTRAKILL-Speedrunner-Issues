@@ -1,6 +1,8 @@
 # ULTRAKILL Speedrunner Issue Tracker
 To keep track of gameplay changes which would make speedrunning more fun.
 
+To suggest a change, click the Issues tab at the top and create a new issue.
+
 # Guidelines
 - Make seperate issues for each change you want to see, so that they can be tracked and discussed seperately.
 - Title your issues in a (relatively) sane way.
